@@ -1,0 +1,5 @@
+/Users/namishmaheshwari/Projects/WebScrapper/bin/Release/WebScrapper.dll
+/Users/namishmaheshwari/Projects/WebScrapper/bin/Release/WebScrapper.pdb
+/Users/namishmaheshwari/Projects/WebScrapper/obj/Release/docker-compose.dcprojAssemblyReference.cache
+/Users/namishmaheshwari/Projects/WebScrapper/obj/Release/docker-compose.dcproj.CoreCompileInputs.cache
+/Users/namishmaheshwari/Projects/WebScrapper/obj/Release/docker-compose.dcproj.CopyComplete

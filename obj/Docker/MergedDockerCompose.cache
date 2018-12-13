@@ -1,0 +1,7 @@
+services:
+  webscrapper:
+    build:
+      context: /Users/namishmaheshwari/Projects/WebScrapper
+      dockerfile: /Users/namishmaheshwari/Projects/WebScrapper/WebScrapper/Dockerfile
+    image: webscrapper
+version: '3.4'

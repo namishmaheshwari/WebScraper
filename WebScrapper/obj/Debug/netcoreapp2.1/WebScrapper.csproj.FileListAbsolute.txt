@@ -1,0 +1,11 @@
+/Users/namishmaheshwari/Projects/WebScrapper/WebScrapper/bin/Debug/netcoreapp2.1/WebScrapper.deps.json
+/Users/namishmaheshwari/Projects/WebScrapper/WebScrapper/bin/Debug/netcoreapp2.1/WebScrapper.runtimeconfig.json
+/Users/namishmaheshwari/Projects/WebScrapper/WebScrapper/bin/Debug/netcoreapp2.1/WebScrapper.runtimeconfig.dev.json
+/Users/namishmaheshwari/Projects/WebScrapper/WebScrapper/bin/Debug/netcoreapp2.1/WebScrapper.dll
+/Users/namishmaheshwari/Projects/WebScrapper/WebScrapper/bin/Debug/netcoreapp2.1/WebScrapper.pdb
+/Users/namishmaheshwari/Projects/WebScrapper/WebScrapper/obj/Debug/netcoreapp2.1/WebScrapper.csproj.CoreCompileInputs.cache
+/Users/namishmaheshwari/Projects/WebScrapper/WebScrapper/obj/Debug/netcoreapp2.1/WebScrapper.AssemblyInfoInputs.cache
+/Users/namishmaheshwari/Projects/WebScrapper/WebScrapper/obj/Debug/netcoreapp2.1/WebScrapper.AssemblyInfo.cs
+/Users/namishmaheshwari/Projects/WebScrapper/WebScrapper/obj/Debug/netcoreapp2.1/WebScrapper.dll
+/Users/namishmaheshwari/Projects/WebScrapper/WebScrapper/obj/Debug/netcoreapp2.1/WebScrapper.pdb
+/Users/namishmaheshwari/Projects/WebScrapper/WebScrapper/obj/Debug/netcoreapp2.1/WebScrapper.csprojAssemblyReference.cache
